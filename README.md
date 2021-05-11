@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Iamsounak93
-This is a ML Pipeline for Corp Optimizer and Predictor.
+- This is a ML Pipeline for Corp Optimizer and Predictor.
+
 
 Thank You...
 
