@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Iamsounak93
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning JavaScript
+This is a ML Pipeline for Corp Optimizer and Predictor.
+
+Thank You...
 
 
 <!---
