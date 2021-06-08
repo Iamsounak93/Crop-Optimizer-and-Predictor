@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iamsounak93
+- 👋 Hi, I’m @Iamsounak
 - This is a ML Pipeline for Corp Optimizer and Predictor.
 
 
